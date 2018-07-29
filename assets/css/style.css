@@ -1,0 +1,44 @@
+.heading{
+    padding-bottom: 122px;
+    position: relative;
+    margin-left: 15%;
+    width:70%;
+}
+
+.body{
+    background-color: white;
+    width: 70%;
+   margin-left: 15%;
+}
+.indeximg1{
+    /*position: relative;*/
+    float: left;
+    
+    width: 220px;
+}
+
+.link{
+    
+    
+}
+.name{
+    float: left;
+    bottom: 0px;
+}
+.nameDiv{
+    position: absolute;
+    float: left;
+    bottom: 0px;
+    background-color: blue;
+    color: white;
+}
+.smallDiv{
+    position: absolute;
+    bottom: 15px;
+    right: 2px;
+    float: left;
+}
+.content{
+    background-color: grey;
+    height: 100%;
+}
