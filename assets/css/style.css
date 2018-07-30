@@ -9,17 +9,25 @@
     background-color: white;
     width: 70%;
    margin-left: 15%;
+   padding: 2%;
+
+
 }
 .indeximg1{
     /*position: relative;*/
     float: left;
-    
     width: 220px;
+    padding-right: 2%
 }
-
-.link{
-    
-    
+.aboutMEheader{
+     
+}
+/*this is an example of a decendent selector*/
+.body h1{
+    color: #00cc99;
+}
+h1{
+    color: #00cc99;
 }
 .name{
     float: left;
@@ -29,16 +37,22 @@
     position: absolute;
     float: left;
     bottom: 0px;
-    background-color: blue;
+    background-color: #4aaaa5;
     color: white;
+    text-shadow: 2px 2px rgb(1, 27, 2);
+    padding: 0% 2%;
 }
 .smallDiv{
     position: absolute;
     bottom: 15px;
     right: 2px;
     float: left;
+    
 }
+
 .content{
     background-color: grey;
     height: 100%;
+    padding-top: 20px;
+
 }

@@ -1,0 +1,16 @@
+.nameDiv{
+    float: left;
+    color: blue;
+    width: 50%;
+    position: absolute;
+}
+.smallDiv{
+    float: left;
+    position: absolute;
+    bottom: 0px;
+    width: 50%;
+}
+
+.heading{
+    position: absolute;
+}
