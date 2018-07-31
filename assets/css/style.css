@@ -1,7 +1,7 @@
 .heading{
     padding-bottom: 122px;
     position: relative;
-    margin-left: 15%;
+    margin: 0 auto;
     width: 960px;
     background-color: white;
     padding: 2%;
@@ -11,9 +11,10 @@
 .body{
     background-color: white;
     /*width: 70%;*/
+    margin: 0 auto;
     
     width: 960px;
-   margin-left: 15%;
+   
    padding: 2%;
 
 
@@ -62,6 +63,7 @@
 }
 body{
     background-image: url("/assets/images/dust_scratches.png");
+    
 }
 footer{
     text-align: center;
